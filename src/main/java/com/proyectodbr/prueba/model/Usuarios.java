@@ -1,7 +1,6 @@
 package com.proyectodbr.prueba.model;
 
 //Se genera la entidad de la aplicación
-//prueba
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
